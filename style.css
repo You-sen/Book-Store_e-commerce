@@ -19,3 +19,25 @@
  padding: 9px 25px;
  cursor: pointer;
 }
+.cat1{
+    background-image: linear-gradient(to left,#f61b1b 0%, #f77279 100%);
+    
+}
+.cat2{
+    background-image: linear-gradient(to left,#916e57 0%, #c69b8b 100%);
+}
+.cat3{
+    background-image: linear-gradient(to left,#494947 0%, #cee4e2 100%);
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+    /* color: white;  */
+}
+.categoires h1{
+    color: white;
+    width: 500px;
+}
+.categoires img{
+    width: 100px;
+}
