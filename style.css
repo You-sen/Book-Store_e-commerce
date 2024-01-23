@@ -12,7 +12,7 @@
     color: tomato ;
 }
 .pre-orderButton{
- background-image: linear-gradient(to bottom,rgb(208, 145, 145) 0%, rgb(255, 0, 0) 100%);
+ background-image: linear-gradient(to bottom,rgb(250, 129, 129) 0%, rgb(255, 0, 0) 100%);
  color: white;
  border: none;
  border-radius: 8px;
@@ -40,4 +40,13 @@
 }
 .categoires img{
     width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgb(36, 91, 77);
+}
+.card img{
+    height: 50%;
+    width: 50%;
+    align-self: center;
 }
