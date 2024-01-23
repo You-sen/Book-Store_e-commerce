@@ -1,0 +1,21 @@
+.container{
+    margin-bottom: 50px;
+}
+.wbg{
+    background-color: bisque;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.discount{
+    color: tomato ;
+}
+.pre-orderButton{
+ background-image: linear-gradient(to bottom,rgb(208, 145, 145) 0%, rgb(255, 0, 0) 100%);
+ color: white;
+ border: none;
+ border-radius: 8px;
+ padding: 9px 25px;
+ cursor: pointer;
+}
